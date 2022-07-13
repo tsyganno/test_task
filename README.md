@@ -7,6 +7,7 @@ def task(array):
     pass
 
 print(task("111111111110000000000000000"))
+
 out: 11
 
 
